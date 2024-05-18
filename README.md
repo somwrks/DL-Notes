@@ -9,6 +9,9 @@
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/59e06abb-490b-4cd2-bfd8-49498f702381)
 ![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/c19cc5e2-1149-443a-bcba-18c1db0e8789)
 
+![image](https://github.com/somwrks/Machine-Learning-Course/assets/85481905/f39e3d15-d171-4b6e-8e6e-2e3e0d4f9236)
+
+
 ![image](https://github.com/somwrks/Deep-Learning-Course/assets/85481905/ba539b3f-f13a-4715-bb88-8465376a2c62)
 ![image](https://github.com/somwrks/Deep-Learning-Course/assets/85481905/7c4500cd-b6ed-4d91-8621-62130e657777)
 ![image](https://github.com/somwrks/Deep-Learning-Course/assets/85481905/fabf17bb-502b-464a-89f4-abde4c18505c)
